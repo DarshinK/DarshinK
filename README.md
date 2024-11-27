@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/darshin_k" target="blank"><img src="https://img.shields.io/twitter/follow/darshin_k?logo=twitter&style=for-the-badge" alt="darshin_k" /></a> </p>
 
-- 🔭 I’m currently working on **An app for the visually impaired**
+- 🔭 I’m currently working on **Ransomware Traffic Detection**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **darshin.Kappera78@gmail.com**
 
